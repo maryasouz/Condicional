@@ -1,0 +1,20 @@
+body
+{
+    background-color: #EEF1FF;
+}
+
+button
+{
+    background-color: #D2DAFF;
+    color: black;
+    border-radius: 8px;
+    border-color: #B1B2FF;
+}
+
+input
+{
+    border-radius: 8px;
+    border-color: #B1B2FF;
+    
+}
+
